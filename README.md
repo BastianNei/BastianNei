@@ -1,4 +1,4 @@
-<h1>BIENVENIDO <img src="https://i.imgur.com/LuomAQ1.gif" height="50" style="display: inline-block; vertical-align: middle; object-fit: cover;" /></h1>
+<h1>¡BIENVENIDO! <img src="https://i.imgur.com/LuomAQ1.gif" height="50" style="display: inline-block; vertical-align: middle; object-fit: cover;" /></h1>
 
 
 ## 💫 Acerca de mi 
