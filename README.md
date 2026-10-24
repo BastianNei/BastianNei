@@ -2,7 +2,7 @@
 
 ## 💫 Acerca de mi
 
-<img src="https://i.imgur.com/wtht0v8.gif" width="100%" height="250" style="object-fit: cover;" />
+<img src="https://i.imgur.com/wtht0v8.gif" width="100%" style="object-fit: cover;" />
 
 * 🧑‍💻 Soy estudiante de **Ingeniería en Informática**
 * 🧩 Me gustaría aprender más sobre el área de **Front-end**
