@@ -1,6 +1,6 @@
-# BIENVENIDO 👋
+<h1>BIENVENIDO <img src="https://i.imgur.com/LuomAQ1.gif" align="right" height="80" style="object-fit: cover;" /></h1>
 
-## 💫 Acerca de mi
+## 💫 Acerca de mi 
 
 <img src="https://i.imgur.com/C67ALN9.jpeg" width="100%" style="object-fit: cover;" />
 
