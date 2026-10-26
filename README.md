@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/C67ALN9.jpeg" width="100%" style="object-fit: cover;" />
 
 * 🧑‍💻 Soy estudiante de **Ingeniería en Informática**
-* 🧩 Me gustaría aprender más sobre el área de **Front-end**
+* 🧩 Me gustaría aprender más sobre el área de **Front-end y Back-end**
 * 📍 Soy de **Chile, Santiago**
 
 ---
