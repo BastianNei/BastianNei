@@ -19,5 +19,5 @@
 
 ## 📊 Mis Estadisticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BastianNei&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastianNei&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=BastianNei&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=BastianNei&layout=compact&theme=dark)
